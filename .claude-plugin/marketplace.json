@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "dream-skill",
+      "name": "afterdream-skill",
       "source": "./",
       "description": "6-phase dreaming protocol for agent self-reflection. Discovers what the agent can't see about itself: recurring failure patterns, overlooked achievements, broken promises, and non-obvious root causes.",
       "version": "0.1.0",

@@ -68,21 +68,21 @@ When manually triggered, the Agent recounts the full dream to you. This isn't fo
 **Option A: Claude Code Plugin (recommended)**
 
 ```
-/plugin marketplace add JesD/dream-skill
-/plugin install dream-skill@dream
+/plugin marketplace add JesD/afterdream-skill
+/plugin install afterdream-skill@dream
 ```
 
 **Option B: CLAUDE.md (per-project)**
 
 ```bash
-curl -o CLAUDE.md https://raw.githubusercontent.com/JesD/dream-skill/main/CLAUDE.md
+curl -o CLAUDE.md https://raw.githubusercontent.com/JesD/afterdream-skill/main/CLAUDE.md
 ```
 
 Or append to existing:
 
 ```bash
 echo "" >> CLAUDE.md
-curl https://raw.githubusercontent.com/JesD/dream-skill/main/CLAUDE.md >> CLAUDE.md
+curl https://raw.githubusercontent.com/JesD/afterdream-skill/main/CLAUDE.md >> CLAUDE.md
 ```
 
 That's it — tell the agent "dream" and it works.
