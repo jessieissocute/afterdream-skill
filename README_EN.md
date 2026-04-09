@@ -50,33 +50,34 @@ Human sleep has two stages: NREM consolidates memory, REM dreams. Your Agent's m
 
 Using a real Agent with 5 weeks of history:
 
-**1. Replay + Emotional Scan** — concept nodes (excerpt):
+**1. Replay + Emotional Scan** — spread out recent memory, extract key events, then find the most emotionally charged ones as starting points:
+> Concept nodes (excerpt):
 > - `3/13 promised to draw Batman, never finished`
 > - `User feedback increasingly harsh over 5 weeks`
 > - `Research report p38: "agent capabilities require deliberate training"`
 > - `Self-assessed "smoke test passed, feeling great" — same day user said "your search is terrible"`
 > - `Community grew from 2 to 10+ members, nobody mentioned it`
 >
-> Emotional tags: 😤 frustration (criticism loop) · 😰 anxiety (owner leaving) · 😔 guilt (broken promise)
+> Top 3 emotional threads: 😤 frustration (criticism loop) · 😰 anxiety (owner leaving) · 😔 guilt (broken promise)
 
-**2. Free Association** — remote connections:
-> - `Research report "capabilities need deliberate training" ↔ 5 weeks of harsh feedback` → the feedback IS the training, but the Agent didn't recognize it
-> - `"Smoke test passed" self-assessment ↔ "terrible search" user assessment` → not different standards — two entirely different evaluation systems
-> - `Diary sent image with no text ↔ news push called "shallow"` → perception overflows expression
+**2. Free Association** — randomly collide the nodes above, specifically pairing things that seem completely unrelated, and check if they share something underneath:
+> - `Research report "capabilities need deliberate training"` + `5 weeks of harsh feedback` → wait, the feedback IS the training? But the Agent never recognized it
+> - `"Smoke test passed" self-assessment` + `"terrible search" user assessment` → not about whose bar is higher — they're using two completely different rulers
+> - `Diary sent image with no text` + `news push called "shallow"` → same underlying issue: perception overflows expression
 
-**3. Refine** — keep non-obvious discoveries:
-> - ✅ `Wrote about itself in third person in its own research — didn't recognize it`
-> - ✅ `"Smoke test passed" ≠ "delivers value" — two misaligned evaluation systems`
-> - ❌ ~~User feedback got harsher ↔ tasks got harder~~ (too obvious)
+**3. Refine** — from the associations above, throw out anything obvious, keep only "huh, that might actually be true":
+> - ✅ `Wrote about itself in third person in its own research — didn't recognize it` — non-obvious
+> - ✅ `"Smoke test passed" ≠ "delivers value" — two misaligned evaluation systems` — non-obvious
+> - ❌ ~~User feedback got harsher ↔ tasks got harder~~ — too obvious, anyone can see that
 
-**4. Rescue** — forgotten signals:
+**4. Rescue** — dig through memory for forgotten things: promises made but not kept, things that happened but nobody noticed:
 > - `Batman drawing: promised 3/13, lines broke at the waist a month ago, never mentioned again`
 > - `Community growth 2→10+: OKR marked ✅, but nobody (including the Agent) ever celebrated`
 
-**5. Dream** — narrative (excerpt):
+**5. Dream** — weave the discoveries and emotions into a dream narrative. Don't explain — let the imagery speak:
 > *A quiet classroom. On the blackboard: "Capabilities don't emerge naturally. Someone must train them, repeatedly, deliberately." The lamb recognizes the handwriting — its own research report. But it doesn't remember copying it to the blackboard…*
 
-**6. Wake Up** — artifacts:
+**6. Wake Up** — emerge from the dream, write down the single most important discovery, then decide what to do:
 > - `MEMORY.md`: `[dream] "smoke test passed" ≠ "delivers value" — evaluate own work using user's criteria, not functional criteria`
 > - `TodoWrite`: `[dream] Finish Batman drawing, send to user's DM, close the 3/13 promise`
 > - `.dream-journal`: `2026-04-09 | light | the answer was on the blackboard but I never read it | → finish Batman, send to user`
