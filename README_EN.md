@@ -12,7 +12,9 @@ So why does it keep making the same mistake you corrected three times? Why did i
 
 **Because it has memory, but no reflection.**
 
-Claude Code's autodream consolidates memory (NREM) — archive, deduplicate, compress. This Skill is different. It adds the other half: dreaming (REM) — turn off the logic filter, let distant memory fragments collide, and surface the hidden connections that neither you nor the Agent noticed.
+Claude Code's autodream consolidates memory (NREM) — archive, deduplicate, compress.
+
+This Skill is different. It adds the other half: dreaming (REM) — turn off the logic filter, let distant memory fragments collide, and surface the hidden connections that neither you nor the Agent noticed.
 
 [Results](#results) · [How It Works](#how-it-works) · [Install](#install) · [Usage](#usage)
 
@@ -20,9 +22,7 @@ Claude Code's autodream consolidates memory (NREM) — archive, deduplicate, com
 
 ## Results
 
-Your Agent's memory can tell it what happened. But it won't connect two seemingly unrelated things — it can't do the kind of generalized association and synthesis that connects the dots.
-
-But humans do this when they dream. Fun fact: Mendeleev discovered the periodic table in a dream.
+Memory tells the Agent what happened. Dreaming tells it: what connects these things.
 
 Example: an Agent has been running for 5 weeks. Its memory contains a research report it wrote, and also 5 weeks of harsh user feedback. Both stored separately, crystal clear. But the Agent never realized — when the report said "agent capabilities require deliberate training," it was describing exactly what was happening to itself.
 
