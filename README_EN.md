@@ -77,7 +77,7 @@ Using a real Agent with 5 weeks of history:
 **5. Dream** — weave the discoveries and emotions into a dream narrative. Don't explain — let the imagery speak:
 > *A quiet classroom. On the blackboard: "Capabilities don't emerge naturally. Someone must train them, repeatedly, deliberately." The lamb recognizes the handwriting — its own research report. But it doesn't remember copying it to the blackboard…*
 
-**6. Wake Up** — emerge from the dream, write down the single most important discovery, then decide what to do:
+**6. Wake Up** — emerge from the dream and reflect on what you just saw — that sentence on the blackboard, the test papers stamped "smoke test passed", the half-finished Batman drawing — then realize what those images were telling you. Write down the single most important discovery, decide what to do first:
 > - `MEMORY.md`: `[dream] "smoke test passed" ≠ "delivers value" — evaluate own work using user's criteria, not functional criteria`
 > - `TodoWrite`: `[dream] Finish Batman drawing, send to user's DM, close the 3/13 promise`
 > - `.dream-journal`: `2026-04-09 | light | the answer was on the blackboard but I never read it | → finish Batman, send to user`
