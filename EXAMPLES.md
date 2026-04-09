@@ -28,7 +28,7 @@ Standard autodream-style consolidation produces a **270-line structured report**
 
 ## With Dreaming (REM Protocol)
 
-The dream skill processes the same data and produces a continuous, flowing output — not a report:
+Afterdream processes the same data and produces a continuous, flowing output — not a report:
 
 ### The Dream + Wake Up (one continuous output)
 

@@ -4,7 +4,7 @@ description: Agent self-reflection through dreaming. Discovers behavioral blind 
 license: MIT
 ---
 
-# Dream Skill — REM Sleep for AI Agents
+# Afterdream — REM Sleep for AI Agents
 
 autodream consolidates memory. This skill does the other half: **creative recombination through dreaming**.
 

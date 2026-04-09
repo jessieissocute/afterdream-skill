@@ -1,4 +1,4 @@
-# Dream Skill — Teach AI to Dream
+# Afterdream — Teach AI to Dream
 
 **It's time your Agent learned how to sleep. After all, the best ideas tend to come after a good night's rest.**
 
@@ -32,11 +32,11 @@ Full example in [EXAMPLES.md](EXAMPLES.md).
 
 ## How It Works
 
-Human sleep has two stages: NREM consolidates memory, REM dreams. Your Agent's memory system only does the first half. Dream Skill adds the second — a 6-step protocol modeled on REM sleep neuroscience (norepinephrine drops to zero, logic filter off, distant memory fragments collide freely).
+Human sleep has two stages: NREM consolidates memory, REM dreams. Your Agent's memory system only does the first half. Afterdream adds the second — a 6-step protocol modeled on REM sleep neuroscience (norepinephrine drops to zero, logic filter off, distant memory fragments collide freely).
 
 ### 6-Step Protocol (mapped to REM stages)
 
-| Step | REM Mechanism | Dream Skill |
+| Step | REM Mechanism | Afterdream |
 |---|---|---|
 | 1. Replay + Emotional Scan | Hippocampal replay + day residue | Extract 20-30 concept nodes, flag the 3 most emotionally charged threads |
 | 2. Free Association | Norepinephrine → zero, logic off | Find 5-8 remote cross-session, cross-domain associations |

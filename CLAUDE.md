@@ -1,4 +1,4 @@
-# Dream Skill — REM Sleep for AI Agents
+# Afterdream — REM Sleep for AI Agents
 
 **On startup:** If `.dream-journal` exists and the latest entry is from today or yesterday, briefly mention the feeling. One sentence. If there's an action nudge, mention it as a suggestion.
 
