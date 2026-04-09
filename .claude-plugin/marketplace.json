@@ -1,0 +1,33 @@
+{
+  "name": "dream",
+  "owner": {
+    "name": "JesD"
+  },
+  "metadata": {
+    "description": "Agent self-reflection through dreaming. Discovers behavioral blind spots, forgotten signals, and hidden patterns that memory consolidation misses.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "dream-skill",
+      "source": "./",
+      "description": "6-phase dreaming protocol for agent self-reflection. Discovers what the agent can't see about itself: recurring failure patterns, overlooked achievements, broken promises, and non-obvious root causes.",
+      "version": "0.1.0",
+      "author": {
+        "name": "JesD"
+      },
+      "keywords": [
+        "dream",
+        "memory",
+        "self-reflection",
+        "self-improvement",
+        "pattern",
+        "insight",
+        "blind-spots",
+        "metacognition",
+        "agent-growth"
+      ],
+      "category": "workflow"
+    }
+  ]
+}

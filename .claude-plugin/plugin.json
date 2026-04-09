@@ -1,0 +1,10 @@
+{
+  "name": "dream-skill",
+  "description": "Agent self-reflection through dreaming. Discovers behavioral blind spots, forgotten signals, and hidden patterns that memory consolidation misses.",
+  "version": "0.1.0",
+  "author": {
+    "name": "JesD"
+  },
+  "license": "MIT",
+  "keywords": ["dream", "memory", "self-reflection", "self-improvement", "pattern", "insight", "blind-spots", "metacognition", "agent-growth"]
+}

@@ -1,0 +1,5 @@
+# Private evaluation data — NEVER publish
+# Contains real names, chat logs, Feishu IDs, health info
+eval/
+
+.DS_Store
