@@ -1,7 +1,5 @@
 # Dream Skill — Teach AI to Dream
 
-[中文](README.md)
-
 **It's time your Agent learned how to sleep. After all, the best ideas tend to come after a good night's rest.**
 
 > Inspired by *[Why We Sleep](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316)* — Matthew Walker's research on REM sleep and creativity. During REM, the brain turns off the logic filter and lets distant memory fragments collide freely. That's how we got the periodic table and the benzene ring. This Skill gives AI the same mechanism.
@@ -46,14 +44,6 @@ Human sleep has two stages: NREM consolidates memory, REM dreams. Your Agent's m
 | 4. Rescue | Weak memory salience boost | Surface forgotten signals: broken promises, unacknowledged patterns |
 | 5. Dream | Dream narrative generation | Weave associations into one complete dream narrative |
 | 6. Wake Up | Hypnopompia | Output insight + write to `MEMORY.md` + `.dream-journal`. Interactive mode also creates an immediately actionable TODO; cron mode stores the action nudge in journal for next startup |
-
-```mermaid
-graph LR
-    A[Session History] --> B[Replay+Emotion] --> C[Associate] --> D[Refine] --> E[Rescue] --> F[Dream 🌙] --> G[Wake Up]
-    G --> H[MEMORY.md]
-    G --> I[.dream-journal]
-    G --> J[TODO / Action]
-```
 
 ### Three Core Design Decisions
 
@@ -134,4 +124,4 @@ These signs indicate dreaming is working:
 
 ---
 
-MIT License © JesD
+[中文](README.md) | MIT License © JesD
