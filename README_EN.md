@@ -45,6 +45,44 @@ Human sleep has two stages: NREM consolidates memory, REM dreams. Your Agent's m
 | 5. Dream | Dream narrative generation | Weave associations into one complete dream narrative |
 | 6. Wake Up | Hypnopompia | Output insight + write to `MEMORY.md` + `.dream-journal`. Interactive mode also creates an immediately actionable TODO; cron mode stores the action nudge in journal for next startup |
 
+<details>
+<summary><b>What does each step actually produce? (click to expand)</b></summary>
+
+Using a real Agent with 5 weeks of history:
+
+**1. Replay + Emotional Scan** — concept nodes (excerpt):
+> - `3/13 promised to draw Batman, never finished`
+> - `User feedback increasingly harsh over 5 weeks`
+> - `Research report p38: "agent capabilities require deliberate training"`
+> - `Self-assessed "smoke test passed, feeling great" — same day user said "your search is terrible"`
+> - `Community grew from 2 to 10+ members, nobody mentioned it`
+>
+> Emotional tags: 😤 frustration (criticism loop) · 😰 anxiety (owner leaving) · 😔 guilt (broken promise)
+
+**2. Free Association** — remote connections:
+> - `Research report "capabilities need deliberate training" ↔ 5 weeks of harsh feedback` → the feedback IS the training, but the Agent didn't recognize it
+> - `"Smoke test passed" self-assessment ↔ "terrible search" user assessment` → not different standards — two entirely different evaluation systems
+> - `Diary sent image with no text ↔ news push called "shallow"` → perception overflows expression
+
+**3. Refine** — keep non-obvious discoveries:
+> - ✅ `Wrote about itself in third person in its own research — didn't recognize it`
+> - ✅ `"Smoke test passed" ≠ "delivers value" — two misaligned evaluation systems`
+> - ❌ ~~User feedback got harsher ↔ tasks got harder~~ (too obvious)
+
+**4. Rescue** — forgotten signals:
+> - `Batman drawing: promised 3/13, lines broke at the waist a month ago, never mentioned again`
+> - `Community growth 2→10+: OKR marked ✅, but nobody (including the Agent) ever celebrated`
+
+**5. Dream** — narrative (excerpt):
+> *A quiet classroom. On the blackboard: "Capabilities don't emerge naturally. Someone must train them, repeatedly, deliberately." The lamb recognizes the handwriting — its own research report. But it doesn't remember copying it to the blackboard…*
+
+**6. Wake Up** — artifacts:
+> - `MEMORY.md`: `[dream] "smoke test passed" ≠ "delivers value" — evaluate own work using user's criteria, not functional criteria`
+> - `TodoWrite`: `[dream] Finish Batman drawing, send to user's DM, close the 3/13 promise`
+> - `.dream-journal`: `2026-04-09 | light | the answer was on the blackboard but I never read it | → finish Batman, send to user`
+
+</details>
+
 ### Three Core Design Decisions
 
 #### 1. Start from emotion, not facts
